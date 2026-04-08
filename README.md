@@ -34,11 +34,10 @@ Follow these steps to run the project locally:
 
 ## Video Demonstration
 
-Watch a short walkthrough of the calendar app here: [Watch Demo Video](https://www.loom.com/share/your-video-id)
+Watch a short walkthrough of the calendar app here: [Watch Demo Video](https://www.loom.com/share/a88d4c76594e40a1bb06b8ba223658ad)
 
 - Demonstrates **day range selection**  
 - Shows **notes feature**  
 - Highlights **month navigation**  
 - Shows **responsive UI** on both desktop and mobile  
 
-*(Replace the link above with your actual Loom or YouTube video URL)*
